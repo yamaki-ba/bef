@@ -1,22 +1,20 @@
-logo: # add logo name
-title: Business Analytics
+logo: BiznessAnalytics_DD76a1a.jpg# add logo name
+title: Bizness Analytics
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Advanced Data Analytics | Big Data Research
 permalink: ':title/'
 baseurl: "/blogs" # the subpath of your site, e.g. /blog
 url: "http://www.biznessanalytics.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
-video: mountains.mp4 # add banner video. Add your video file to the folder video
+video: Network - 12716.mp4 # add banner video. Add your video file to the folder video
 banner-title: # add banner title
 banner-desc: # add banner description
 
 # Author settings
-author-pic: face.jpg # your photo
-author-name: Sandeep Raghuwanshi your name
-about-author: # about author
+author-pic: BiznessAnalytics_DD76a1a.jpg # your photo
+author-name: Bizness Analytics
+about-author: Bizness Analytics combines data analytics products with management consultancy to help clients handle, measure and articulate big data and make smarter business decisions.
 email: sandeep@biznessanalytics.com # your email
 phone: +971 (50)-553-3140 # your pnone number
 website: http://www.biznessanalytics.com/blogs # you website
